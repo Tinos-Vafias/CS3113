@@ -18,7 +18,8 @@ Features of the game include:
 
 Gameplay of the Project can be seen here:
 
-![Project6-FinalProject](https://github.com/user-attachments/assets/c727a0b3-c7d3-4b8b-a707-3b6f2ac06855)
+![Project6-FinalProject](https://github.com/user-attachments/assets/248cecda-0963-449f-9121-9e7c260c3ea4)
+
 
 Project 5 - Platformer
 Project Description: The task was to make a platformer with the curretn form of the enine created in class
@@ -29,4 +30,5 @@ Features of this project include:
 
 Gameplay of the Project can be seen here:
 
-![Project5-Platformer](https://github.com/user-attachments/assets/cc7778e0-c460-4ebf-837a-23713f4ea306)
+![Project5-Platformer](https://github.com/user-attachments/assets/9ff6ddc7-9def-4c3d-a6dd-af7cc6765dbf)
+
