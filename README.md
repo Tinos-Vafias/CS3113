@@ -1,4 +1,4 @@
-# CS-3113---Intro-to-Game-Design
+# CS3113-Intro-to-Game-Design
 All projects created related to course CS-3113
 
 Over the course of 4 months, a fully-functioning OpenGL Game engine was programmed, capable of playing any game created in C++ (using respective libraries)
